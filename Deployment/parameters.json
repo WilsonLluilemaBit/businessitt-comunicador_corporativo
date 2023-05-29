@@ -60,7 +60,7 @@
     "Description": "If proactive app installation should be enabled. Default is true. If enabled, the application will proactively install the User bot for recipients."
   },
   "userAppExternalId": {
-    "Value": "148a66bb-e83d-425a-927d-09f4299a9274",
+    "Value": "148a66bb-e83d-425a-927d-09f4299a9275",
     "Description": "User app external ID."
   },
   "serviceBusWebAppRoleNameGuid": {
