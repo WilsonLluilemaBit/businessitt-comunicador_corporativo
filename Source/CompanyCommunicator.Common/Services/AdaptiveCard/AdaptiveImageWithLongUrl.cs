@@ -9,7 +9,6 @@ namespace Microsoft.Teams.Apps.CompanyCommunicator.Common.Services.AdaptiveCard
     using Newtonsoft.Json;
 
     /// <summary>
-    /// Workaround for long data uri https://github.com/microsoft/AdaptiveCards/issues/2716.
     /// </summary>
     public class AdaptiveImageWithLongUrl : AdaptiveImage
     {
